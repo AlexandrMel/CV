@@ -91,3 +91,10 @@ ___
 - Improved my Time Management skills;
 - Teamwork;
 - Final thesys on Suretyship.
+____
+## My Hobbies
+
+- **Basketbal;**
+- **Long_walks**
+- **Movies**
+- **Sometimes_books**
